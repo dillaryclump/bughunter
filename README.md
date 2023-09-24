@@ -1,3 +1,9 @@
+## about Bughunter
+
+this project tries to automatically anaylize bug-bounty websites to find bugs using automated tools to search for all major security concerns such as sql injection, cross site scripting, sensitive data, ddos and other general bugs
+
+
+
 ## About Sublist3r 
 
 Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
